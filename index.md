@@ -1,6 +1,4 @@
 **Privacy Policy for Brush Tracker**
-===============================================
-
   
 **Effective Date**: 2025-10-19
   
@@ -28,8 +26,6 @@ When you use our mobile app, we may collect the following types of personal info
 6.  **Usage Data**  
     We collect information about how you use our app, including the features you access, the duration of usage, and any interactions with the app.  
     _Example_: We track how often you use certain features, such as in-app purchases or notifications, to improve your experience and optimize app functionality.
-
-This document was generated with the use of the [app privacy policy template.](https://www.iubenda.com/en/help/147125)
 
 ### **How We Use Your Information**
 
